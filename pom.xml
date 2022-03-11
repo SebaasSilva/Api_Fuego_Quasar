@@ -13,7 +13,6 @@
   <artifactId>OperacionFuegoQuasar</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   
-  <packaging>war</packaging>
 
   <name>OperacionFuegoQuasar</name>
   <!-- FIXME change it to the project's website -->
