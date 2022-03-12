@@ -33,7 +33,7 @@ public class TopSecretService {
 	try {
 	    for (Satelite satelite : request.getSatelites()) {
 		if (satelite.getName().trim().equals("kenobi")) {
-		    // System.out.print("Kenobiiii");
+		    // System.out.print("Kenobi");
 		    this.kenobiDistance = satelite.getDistance();
 		    this.kenobiMessage = satelite.getMessage();
 		}
