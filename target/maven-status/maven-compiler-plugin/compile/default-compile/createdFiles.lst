@@ -1,0 +1,11 @@
+com\FuegoQuasar\core\config\SwaggerConfig.class
+com\FuegoQuasar\core\OperacionFuegoQuasar.class
+com\FuegoQuasar\core\services\MessageService.class
+com\FuegoQuasar\core\model\Position.class
+com\FuegoQuasar\core\services\LocationService.class
+com\FuegoQuasar\core\model\Satelite.class
+com\FuegoQuasar\core\response\ErrorResponse.class
+com\FuegoQuasar\core\services\TopSecretService.class
+com\FuegoQuasar\core\controller\FuegoQuasarController.class
+com\FuegoQuasar\core\model\FuegoQuasarRequest.class
+com\FuegoQuasar\core\response\FuegoQuasarResponse.class
